@@ -3,14 +3,14 @@ using System.Collections;
 
 public class f_UnitController : MonoBehaviour
 {	
-	public bool isSelected;
-	public bool haveAttacked;
-	public bool haveMoved;
+	public bool isSelected; // Am I selected right now?
+	public bool haveAttacked; // Have I attacked this turn?
+	public bool haveMoved; // Have I mode this turn?
 
-	public int myDamage;
-	public int myDamageSplash;
-	public int myAttackRange;
-	public int myMovement;
+	public int myDamage; // The damage this unit inflicts
+	public int myDamageSplash; // Does the damage affect nearby tiles
+	public int myAttackRange; // How many tiles far from its spot the unit can attack
+	public int myMovement; // Tiles this unit can move
 
 	void Update ()
 	{
@@ -38,6 +38,6 @@ public class f_UnitController : MonoBehaviour
 
 	void EndTurn() // Check to see if turn should be ended or not
 	{
-		//if (haveAttacked && haveMoved) -> unit turn end
+		//if (haveAttacked && haveMoved) -> unit turn end;
 	}
 }
