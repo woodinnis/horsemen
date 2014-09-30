@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class U_Movement : MonoBehaviour {
+public class u_Movement : MonoBehaviour {
 
 	// Variables for checking valid hex locations
 	bool boolIsEmpty = false;
@@ -18,7 +18,7 @@ public class U_Movement : MonoBehaviour {
 	// Use this for initialization
 	void Start () 
 	{
-		strCurrentHex = gameObject.GetComponent<"Hex_01">();
+		//strCurrentHex = gameObject.GetComponent<"Hex_01">();
 	}
 
 	// Calculate unit movements
@@ -26,10 +26,6 @@ public class U_Movement : MonoBehaviour {
 	{}
 
 	// Actions to perform on unit stop
-	bool UnitStop()
-	{}
-
-
-
-
+	//bool UnitStop()
+	//{}
 }
