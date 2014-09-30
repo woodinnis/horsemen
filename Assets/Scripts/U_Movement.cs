@@ -19,6 +19,15 @@ public class U_Movement : MonoBehaviour {
 
 	}
 
+	// Calculate unit movements
+	void UnitMove()
+	{}
+
+	// Actions to perform on unit stop
+	bool UnitStop()
+	{}
+
+
 
 
 }
