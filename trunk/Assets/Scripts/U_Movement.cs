@@ -12,11 +12,13 @@ public class U_Movement : MonoBehaviour {
 	int intMoveHexCount = 0;
 	int intMoveHexDirection = 0;
 	int intMoveHexRemaining = 0;
+	string strCurrentHex;
+
 
 	// Use this for initialization
 	void Start () 
 	{
-
+		strCurrentHex = gameObject.GetComponent<"Hex_01">();
 	}
 
 	// Calculate unit movements
