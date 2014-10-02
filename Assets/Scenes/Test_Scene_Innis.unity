@@ -146,10 +146,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &3941312
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -177,7 +173,7 @@ GameObject:
   - 114: {fileID: 31726125}
   - 64: {fileID: 31726126}
   m_Layer: 0
-  m_Name: Hex_30
+  m_Name: Hex_27
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -236,10 +232,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &31726126
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -267,7 +259,7 @@ GameObject:
   - 114: {fileID: 85353375}
   - 64: {fileID: 85353376}
   m_Layer: 0
-  m_Name: Hex_31
+  m_Name: Hex_29
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -326,10 +318,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &85353376
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -416,10 +404,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &87386549
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -447,7 +431,7 @@ GameObject:
   - 114: {fileID: 169274230}
   - 64: {fileID: 169274231}
   m_Layer: 0
-  m_Name: Hex_12
+  m_Name: Hex_08
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -506,10 +490,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &169274231
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -596,10 +576,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &215195966
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -627,7 +603,7 @@ GameObject:
   - 114: {fileID: 239183959}
   - 64: {fileID: 239183960}
   m_Layer: 0
-  m_Name: Hex_22
+  m_Name: Hex_20
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -686,10 +662,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &239183960
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -717,7 +689,7 @@ GameObject:
   - 114: {fileID: 356786014}
   - 64: {fileID: 356786015}
   m_Layer: 0
-  m_Name: Hex_16
+  m_Name: Hex_17
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -776,10 +748,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &356786015
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -866,10 +834,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &385732130
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -897,7 +861,7 @@ GameObject:
   - 114: {fileID: 389502078}
   - 64: {fileID: 389502079}
   m_Layer: 0
-  m_Name: Hex_09
+  m_Name: Hex_10
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -956,10 +920,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &389502079
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1046,10 +1006,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &440802935
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1147,12 +1103,12 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
 --- !u!1 &538679860
 GameObject:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabParentObject: {fileID: 100000, guid: 8bb2e773054ce9d478f416b14e92ff55, type: 2}
+  m_PrefabInternal: {fileID: 1748928920}
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 538679862}
@@ -1167,27 +1123,28 @@ GameObject:
 --- !u!114 &538679861
 MonoBehaviour:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabParentObject: {fileID: 11400000, guid: 8bb2e773054ce9d478f416b14e92ff55,
+    type: 2}
+  m_PrefabInternal: {fileID: 1748928920}
   m_GameObject: {fileID: 538679860}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5afcd1b6ef68d154497fe06314739223, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Hex: []
+  HexList: []
 --- !u!4 &538679862
 Transform:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabParentObject: {fileID: 400000, guid: 8bb2e773054ce9d478f416b14e92ff55, type: 2}
+  m_PrefabInternal: {fileID: 1748928920}
   m_GameObject: {fileID: 538679860}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 0
 --- !u!1 &581236618
 GameObject:
   m_ObjectHideFlags: 0
@@ -1260,10 +1217,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &581236623
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1291,7 +1244,7 @@ GameObject:
   - 114: {fileID: 603503830}
   - 64: {fileID: 603503831}
   m_Layer: 0
-  m_Name: Hex_34
+  m_Name: Hex_33
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1350,10 +1303,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &603503831
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1440,10 +1389,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &643969875
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1471,7 +1416,7 @@ GameObject:
   - 114: {fileID: 791298798}
   - 64: {fileID: 791298799}
   m_Layer: 0
-  m_Name: Hex_25
+  m_Name: Hex_23
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1530,10 +1475,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &791298799
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1620,10 +1561,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &824065482
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1651,7 +1588,7 @@ GameObject:
   - 114: {fileID: 827706701}
   - 64: {fileID: 827706702}
   m_Layer: 0
-  m_Name: Hex_33
+  m_Name: Hex_34
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1710,10 +1647,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &827706702
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1741,7 +1674,7 @@ GameObject:
   - 114: {fileID: 929134280}
   - 64: {fileID: 929134281}
   m_Layer: 0
-  m_Name: Hex_21
+  m_Name: Hex_22
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1800,10 +1733,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &929134281
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1890,10 +1819,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &962522894
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1921,7 +1846,7 @@ GameObject:
   - 114: {fileID: 977798311}
   - 64: {fileID: 977798312}
   m_Layer: 0
-  m_Name: Hex_10
+  m_Name: Hex_12
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1980,10 +1905,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &977798312
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2070,10 +1991,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1000086860
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2160,10 +2077,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1003366222
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2205,7 +2118,7 @@ Transform:
   m_Children:
   - {fileID: 1753916973}
   m_Father: {fileID: 0}
-  m_RootOrder: 3
+  m_RootOrder: 4
 --- !u!1 &1058904997
 GameObject:
   m_ObjectHideFlags: 0
@@ -2219,7 +2132,7 @@ GameObject:
   - 114: {fileID: 1058905001}
   - 64: {fileID: 1058905002}
   m_Layer: 0
-  m_Name: Hex_08
+  m_Name: Hex_09
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2278,10 +2191,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1058905002
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2309,7 +2218,7 @@ GameObject:
   - 114: {fileID: 1062583499}
   - 64: {fileID: 1062583500}
   m_Layer: 0
-  m_Name: Hex_29
+  m_Name: Hex_31
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2368,10 +2277,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1062583500
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2469,6 +2374,170 @@ Prefab:
       propertyPath: m_RootOrder
       value: 3
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_03
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_27
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_29
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_00
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_08
+      objectReference: {fileID: 0}
+    - target: {fileID: 100010, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_15
+      objectReference: {fileID: 0}
+    - target: {fileID: 100012, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_20
+      objectReference: {fileID: 0}
+    - target: {fileID: 100014, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_17
+      objectReference: {fileID: 0}
+    - target: {fileID: 100016, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_32
+      objectReference: {fileID: 0}
+    - target: {fileID: 100018, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_10
+      objectReference: {fileID: 0}
+    - target: {fileID: 100020, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100022, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_04
+      objectReference: {fileID: 0}
+    - target: {fileID: 100024, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_33
+      objectReference: {fileID: 0}
+    - target: {fileID: 100026, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_18
+      objectReference: {fileID: 0}
+    - target: {fileID: 100028, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_23
+      objectReference: {fileID: 0}
+    - target: {fileID: 100030, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_35
+      objectReference: {fileID: 0}
+    - target: {fileID: 100032, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_34
+      objectReference: {fileID: 0}
+    - target: {fileID: 100034, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_22
+      objectReference: {fileID: 0}
+    - target: {fileID: 100036, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_06
+      objectReference: {fileID: 0}
+    - target: {fileID: 100038, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_12
+      objectReference: {fileID: 0}
+    - target: {fileID: 100040, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_14
+      objectReference: {fileID: 0}
+    - target: {fileID: 100042, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_26
+      objectReference: {fileID: 0}
+    - target: {fileID: 100044, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_09
+      objectReference: {fileID: 0}
+    - target: {fileID: 100046, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_31
+      objectReference: {fileID: 0}
+    - target: {fileID: 100048, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_02
+      objectReference: {fileID: 0}
+    - target: {fileID: 100050, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_07
+      objectReference: {fileID: 0}
+    - target: {fileID: 100052, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_19
+      objectReference: {fileID: 0}
+    - target: {fileID: 100054, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_24
+      objectReference: {fileID: 0}
+    - target: {fileID: 100056, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_11
+      objectReference: {fileID: 0}
+    - target: {fileID: 100058, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_36
+      objectReference: {fileID: 0}
+    - target: {fileID: 100060, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_28
+      objectReference: {fileID: 0}
+    - target: {fileID: 100062, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_16
+      objectReference: {fileID: 0}
+    - target: {fileID: 100064, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_30
+      objectReference: {fileID: 0}
+    - target: {fileID: 100068, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_05
+      objectReference: {fileID: 0}
+    - target: {fileID: 100070, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_25
+      objectReference: {fileID: 0}
+    - target: {fileID: 100072, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_21
+      objectReference: {fileID: 0}
+    - target: {fileID: 100074, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_Name
+      value: Hex_13
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400006, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400006, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100066, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 57c81e08cbd2de043989dca2cc0858f7, type: 2}
   m_RootGameObject: {fileID: 1048143458}
@@ -2546,10 +2615,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1136366602
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2636,10 +2701,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1188837993
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2723,7 +2784,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
 --- !u!1 &1508228792
 GameObject:
   m_ObjectHideFlags: 0
@@ -2796,10 +2857,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1508228797
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2886,10 +2943,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1524991724
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -2976,10 +3029,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1553675615
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3066,10 +3115,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1586848114
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3097,7 +3142,7 @@ GameObject:
   - 114: {fileID: 1587002273}
   - 64: {fileID: 1587002274}
   m_Layer: 0
-  m_Name: Hex_27
+  m_Name: Hex_28
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3156,10 +3201,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1587002274
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3187,7 +3228,7 @@ GameObject:
   - 114: {fileID: 1658638844}
   - 64: {fileID: 1658638845}
   m_Layer: 0
-  m_Name: Hex_17
+  m_Name: Hex_16
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3246,10 +3287,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1658638845
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3277,7 +3314,7 @@ GameObject:
   - 114: {fileID: 1746559411}
   - 64: {fileID: 1746559412}
   m_Layer: 0
-  m_Name: Hex_28
+  m_Name: Hex_30
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3336,10 +3373,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1746559412
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3354,6 +3387,54 @@ MeshCollider:
   m_SmoothSphereCollisions: 0
   m_Convex: 0
   m_Mesh: {fileID: 4300064, guid: 074e321d1c980ee4a9d380307ec81758, type: 3}
+--- !u!1001 &1748928920
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 400000, guid: 8bb2e773054ce9d478f416b14e92ff55, type: 2}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8bb2e773054ce9d478f416b14e92ff55, type: 2}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8bb2e773054ce9d478f416b14e92ff55, type: 2}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8bb2e773054ce9d478f416b14e92ff55, type: 2}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8bb2e773054ce9d478f416b14e92ff55, type: 2}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8bb2e773054ce9d478f416b14e92ff55, type: 2}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8bb2e773054ce9d478f416b14e92ff55, type: 2}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8bb2e773054ce9d478f416b14e92ff55, type: 2}
+      propertyPath: m_RootMapOrder
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 400000, guid: 8bb2e773054ce9d478f416b14e92ff55, type: 2}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 100100000, guid: 8bb2e773054ce9d478f416b14e92ff55, type: 2}
+  m_RootGameObject: {fileID: 538679860}
+  m_IsPrefabParent: 0
+  m_IsExploded: 1
 --- !u!1 &1753916972
 GameObject:
   m_ObjectHideFlags: 0
@@ -3503,10 +3584,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1915359764
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3534,7 +3611,7 @@ GameObject:
   - 114: {fileID: 1998506233}
   - 64: {fileID: 1998506234}
   m_Layer: 0
-  m_Name: Hex_23
+  m_Name: Hex_25
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3593,10 +3670,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &1998506234
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3624,7 +3697,7 @@ GameObject:
   - 114: {fileID: 2037257720}
   - 64: {fileID: 2037257721}
   m_Layer: 0
-  m_Name: Hex_20
+  m_Name: Hex_21
   m_TagString: Hex
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3683,10 +3756,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &2037257721
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -3740,7 +3809,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 0
+  m_RootOrder: 1
 --- !u!114 &2058024732
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -3824,10 +3893,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 88dbdb77c4999d84ab9c7b08099aae17, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  isEnemy: 0
-  isAlly: 0
-  isEmpty: 1
-  child: {fileID: 0}
 --- !u!64 &2130779593
 MeshCollider:
   m_ObjectHideFlags: 0

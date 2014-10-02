@@ -4,22 +4,30 @@ using System.Collections;
 public class u_Movement : MonoBehaviour {
 
 	/*
-	// Variables for checking valid hex locations
-	public int[][] HexStatus;
+	 * 
+	 * Finishing u_Movement.cs will require completing the merging of g_HexController.cs with m_GridManager.cs
+	 * 
+	 * When all Hex details are accessable from one Singleton, a movement engine can be built.
+	 * 
+	// Movement speed variables for player/unit
+	public float speedX = 0.0f;
+	public float speedZ = 0.0f;
 
-	private boolIsEmpty = false;
+	// Current and Target Hex location variables
+	private GameObject hexCurrent;
+	private GameObject hexTarget;
+
+
 
 	// Use this for initialization
 	void Start () 
 	{
-
+		hexCurrent =
 	}
 
 	void Update()
 	{
-		playerLocation = OnMouseDown();
 
-		UnitMove(playerLocation);
 	}
 
 	// Calculate unit movements
@@ -27,21 +35,6 @@ public class u_Movement : MonoBehaviour {
 	{
 		float movementX = speedX * Time.deltaTime;
 		float movementZ = speedZ * Time.deltaTime;
-
-		playerMove = new Vector3(movementX, 0.0f, movementZ);
-
-
 	}
-
-	Vector3 OnMouseDown()
-	{
-		Vector3 target = Input.mousePosition;
-
-		return target;
-	}
-
-	// Actions to perform on unit stop
-	//bool UnitStop()
-	//{}
 	*/
 }
