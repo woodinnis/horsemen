@@ -3,17 +3,28 @@ using System.Collections;
 
 public class m_GridManager : MonoBehaviour {
 
-	public GameObject[] Hex;
+	[HideInInspector]
+	public static m_GridManager instance;
+
+	public GameObject[] HexList;
 
 	// Use this for initialization
-	void Start () {
-	
-		Hex = GameObject.FindGameObjectsWithTag ("Hex");
-
+	void Awake () 
+	{
+		instance = this;
+		HexList = GameObject.FindGameObjectsWithTag ("Hex");
 	}
-	
+	/*
 	// Update is called once per frame
-	void Update () {
-	
+	public GameObject HexStatus (string name) 
+	{	
+		foreach(GameObject Hex in HexList)
+		{
+			if(Hex.name == name)
+			{
+
+			}
+		}
 	}
+	*/
 }
